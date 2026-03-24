@@ -1,5 +1,5 @@
 dig @198.41.0.4 www.geo.tv +norecurse
-dig @198.41.0.4 a.nic.tv +norecurse
+dig @198.41.0.4 a.nic.tv. A +norecurse
 dig @156.154.104.22 www.geo.tv +norecurse
 dig @198.41.0.4 ruth.ns.cloudflare.com +norecurse
 dig @192.26.92.30 ruth.ns.cloudflare.com +norecurse
